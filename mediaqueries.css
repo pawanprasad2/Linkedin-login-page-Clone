@@ -1,0 +1,514 @@
+
+@media only screen and (max-width:982px){
+
+    .logo  img{
+            width: 50%;
+        }
+    
+
+    ul a li{
+        display: none;
+    }
+    .vertical-line{
+        display: none;
+    }
+    .header{
+        height: 100vh;
+    }
+
+    .intern{
+        height: 80vh;
+    }
+
+    .button label{
+        position:relative;
+        left: 390px;
+        bottom: 40px;
+    }
+
+    .image{
+       left:240px;
+        width: 40%;
+        
+    }
+    .image1{
+        max-width:390%;
+     }
+
+   
+    .articles{
+     display: block;
+     width: 100%;
+
+    }
+    .leftarticles{
+        margin-left:10px;
+        display: block;
+        width: fit-content;
+    }
+    
+    .rightcollab{
+      
+        margin-left: 10px;
+        width: fit-content;
+    }
+    
+    .intern{
+      padding-top: 40px;
+        display: block;
+      height: 70vh;
+        width: 100%;
+    }
+    .leftintern{
+      
+        display: block;
+        width: fit-content;
+        margin-left:10px;
+        margin-bottom: 30px; 
+
+    }
+    .rightintern{
+        display: block;
+        margin-top: 0px;
+        width: fit-content;
+    }
+
+    .leftjob{
+        width: 50%;
+        padding-left: 10px;
+    }
+
+    .postjob{
+        padding-left: 90px;
+    }
+
+    .openforwork{
+        padding-left: 10px;
+    }
+
+    .connectsec{
+        margin-top: 70px;
+        margin-bottom: 80px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .peoplesec{
+        padding-left: 10px;
+    }
+
+    .peoplesec > img {
+      
+        width: 35%;
+     }
+     
+     .skillsec{
+        padding-left: 10px;
+     }
+
+
+     .skillsec img{
+     
+         width: 35%;
+}
+.peoplesec >  h2{
+    
+    width: 50%;
+    
+    
+} 
+
+.skillsec h2{
+    width: 50%;
+    
+}
+.storysec{
+    margin-bottom:80px ;
+}
+.left-videosec{
+    margin-left:10px;
+}
+
+iframe{
+    padding-left: 10px;
+}
+
+.joinsec1{
+    margin-left: 10px;
+
+}
+
+.footerlogo{
+    margin-left: 10px;
+}
+
+.footermenu1{
+margin-left: 40px;
+padding-left: 20px;
+
+}
+
+.div1{
+    flex-direction: column;
+    position: relative;
+    top: 30px;
+    right:120px;
+}
+.ft2{
+    padding: 10px;
+    
+}
+
+.div2{
+    flex-direction: column;
+    margin-left: 200px;
+}
+.subfooter iconify-icon{
+    position: relative;
+    top:160px;
+    right:85px;
+}
+
+.subfooter{
+    margin-left: 10px;
+    height: 10vh;
+}
+
+}
+
+@media only screen and (max-width:768px){
+
+    .logo{
+        width: 40%;
+    }
+
+    .header{
+        display: block;
+        height: 140vh;
+    }
+    .form{
+        display: block;
+        width: 100%;
+    }
+
+
+    .leftcontainer{
+        display: block;
+        width:100% ;
+    }
+    .leftcontainer > h1 {
+        font-size: 32px;
+        font-weight: 400;
+
+    }
+    .line{
+        
+        width: 100%;
+    }
+    .line hr{
+        width: 100%;
+    }
+    .button{
+        max-width: 40%;
+    }
+    
+
+    .gogglesignin{
+        display: block;
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .gogglesignin iconify-icon {
+        position:absolute;
+        right: 10px;
+        left: 30%;
+        top: 510px;
+    }
+    .btn1{
+        width: 60%;
+    }
+    .btn2{
+        width: 100%;
+    }
+    .goggleform{
+        display: block;
+        width: 100%;
+    }
+
+    .goggleform > button{
+        width: 100%;
+    }
+.button label{
+    display: none;
+}
+.gogglesignin iconify-icon{
+    position:absolute;
+    top: 485px;
+}
+
+
+   .image{
+    position:relative;
+    top:30px;
+    left: 30px;
+    width:90%;
+  
+}
+
+
+.image1{
+     
+    position: relative;
+    width: 90%;
+    height: auto;
+    }
+
+
+
+
+    .intern{
+        height: 100vh;
+    }
+    
+    .leftintern >h2{
+        font-size: 42px;
+    }
+
+    .img-container{
+        display: none;
+    }
+
+    .img-container > img{
+        display: none;
+    }
+
+    .footersec{
+        display: block;
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .footermenu1{
+        display: block;
+      flex-direction: row;
+      margin-left: 5px;
+    }
+    .leftnavi{
+        padding-left: 10px;
+    }
+    .peoplesec h2{
+        width: 80%;
+    }
+    .skillsec h2{
+        width: 80%;
+    }
+    .leftnavi h2{
+        width: 95vw;
+    }
+    .leftnavi ul li a{
+        width: 95vw;
+    }
+
+    .leftnavi h3{
+     font-size: 28px;
+     font-weight: 400;
+        width: 100%;
+    }
+.openfeature{
+    flex-direction: column-reverse;
+}
+
+.openimg > img{
+    width: 40%;
+}
+.openforwork>h2{
+    width: 140%;
+    font-size: 32px;
+}
+.openforwork>p{
+    width: 120%;
+}
+
+.storysec{
+    flex-direction: column;
+    margin-top: 0;
+    background-color: rgb(225, 229, 238);
+}
+.left-videosec{
+position: relative;
+width: 550px;
+padding-bottom: 56.35%;
+margin-top: 80px;
+margin-bottom: 0;
+
+
+
+}
+iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 50%;
+    margin-top:0;
+    padding-bottom: 0;
+    margin-left: 20px;
+    
+}
+
+.storyhead{
+    margin-top: 0px;
+    position: relative;
+    bottom: 170px;    
+}
+.storyhead h2{
+    margin-top: 0;
+    margin-left: 10px;
+
+}
+.storyhead h3{
+    width: 100%;
+    margin-left: 10px;
+    font-size:24px ;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.joinsec{
+    background-image: none;
+    height: auto;
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+.joinsec1 >h2{
+    width: 100%;
+    font-size: 32px;
+    margin-top: 0;
+    padding-top: 0;
+}
+}
+
+@media only screen and (max-width:618px) {
+  .div2{
+    position: relative;
+    bottom: 200px;
+  }
+  .sublogo {
+    width: 200px;
+  }
+
+  .job{
+    margin-bottom: 20px;
+  }
+
+}
+
+
+@media only screen and (max-width:582px) {
+
+   .header{
+    height: 110vh;
+   }
+
+
+
+    .logo img{
+        width: 80%;
+    }
+  
+    .image{
+        position:relative;
+        top:30px;
+        left: 30px;
+        width:80%;
+      
+    }
+    
+    
+    .image1{
+         
+        position: relative;
+        width: 80%;
+        height: auto;
+        }
+        .storyhead h2 {
+            margin-top: 20px;
+            width: 100%;
+
+}
+}
+@media only screen and (max-width:480px)
+{
+  
+    
+    .upic{
+        width: 50%;
+
+    }
+    .logoicn{
+       width: 100%;
+    }
+
+    .button {
+        position: relative;
+        right: 90px;
+
+    }
+
+
+    .left-videosec{
+        position: relative;
+        width: 460px;
+        padding-bottom: 56.35%;
+        margin-top: 80px;
+ 
+    }
+        iframe{
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 80%;
+            height: 80%;
+            margin-top:100px;
+            padding-bottom: 0;
+            margin-left: 30px;
+            
+        }
+        .storysec{
+            margin-top: 90px;
+        }
+        .storyhead h2 {
+            margin-top: 220px;
+            width: 100%;
+            
+        }
+        .leftnavi h3{
+            font-size: 34px;
+            width: 100%;
+        }
+        .leftnavi ul {
+              margin-bottom: 80px;
+        }
+
+      .div2{
+        position: relative;
+        right: 100px;
+        
+      }
+
+      .gogglesignin iconify-icon{
+        position: absolute;
+        top: 540px;
+        left: 120px;
+
+
+      }
+      .leftcontainer h1{
+        font-size: 38px;
+        font-weight: 500;
+      }
+
+    }
+
